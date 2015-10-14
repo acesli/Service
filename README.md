@@ -1,0 +1,2 @@
+# User WCF WEBHTTPBINDING TO BUILD A RESTFUL SERVUCE
+my service framework
